@@ -1,0 +1,13 @@
+{
+  "name": "confirm-form-abandonment",
+  "version": "1.0.0-alpha",
+  "description": "Confirm form abandonment.",
+  "main": "./dist/confirm-form-abandonment.min.js",
+  "keywords": [
+    "confirm",
+    "form",
+    "abandonment"
+  ],
+  "author": "Diego Lopes Lima",
+  "license": "MIT"
+}
